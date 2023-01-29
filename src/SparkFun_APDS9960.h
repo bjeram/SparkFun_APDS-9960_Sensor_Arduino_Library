@@ -203,7 +203,7 @@ enum {
 
 /* State definitions */
 enum {
-  NA_STATE,
+  NOT_A_STATE,
   NEAR_STATE,
   FAR_STATE,
   ALL_STATE
